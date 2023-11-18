@@ -24,7 +24,7 @@ During the installation, make sure to add the compiler's "bin" directory to your
 - Type: Desktop Application
 - Database used: Text file generated
 
-[https://github.com/shaifsab/project---contact-list-in-c-/assets/85238587/7226d087-f368-4c35-9cb8-480b522df01f](https://github.com/shaifsab/project---contact-list-in-c-/assets/85238587/83f79d13-9067-4e72-9fd9-ce1e03fa4e94)https://github.com/shaifsab/project---contact-list-in-c-/assets/85238587/83f79d13-9067-4e72-9fd9-ce1e03fa4e94
+[[https://github.com/shaifsab/project---contact-list-in-c-/assets/85238587/7226d087-f368-4c35-9cb8-480b522df01f](https://github.com/shaifsab/project---contact-list-in-c-/assets/85238587/83f79d13-9067-4e72-9fd9-ce1e03fa4e94)https://github.com/shaifsab/project---contact-list-in-c-/assets/85238587/83f79d13-9067-4e72-9fd9-ce1e03fa4e94](https://github.com/shaifsab/project---contact-list-in-c-/issues/1#issue-2000511832)https://github.com/shaifsab/project---contact-list-in-c-/issues/1#issue-2000511832
 
 ## Author
 - Name: Ebrahim Ahmed Shaip
