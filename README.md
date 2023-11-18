@@ -1,4 +1,4 @@
-# Contact List Management System (C++)
+# Contact List Management System
 
 The Contact List Management System is designed in C++ to serve as a simple database for storing and managing student contact records. This project allows users to add, view, modify, and remove contact details, providing a convenient way to organize and access information.
 
