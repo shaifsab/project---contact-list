@@ -13,11 +13,13 @@ The Contact List Management System is designed in C++ to serve as a simple datab
 
 ### Prerequisites
 
-Ensure you have a C++ compiler installed on your system.
+Ensure you have a C++ compiler installed on your system. One popular choice is the MinGW-w64 (Minimalist GNU for Windows) compiler, which you can download from the [official website](https://mingw-w64.org/doku.php).
+During the installation, make sure to add the compiler's "bin" directory to your system's PATH environment variable. This allows you to run the compiler from any command prompt.
+
 
 ### Build and Run
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/contact-list-cpp.git
+
+   
