@@ -9,7 +9,6 @@ The Contact List Management System is designed in C++ to serve as a simple datab
 - Modify existing contact details.
 - Remove contacts from the database.
 
-## How to Use
 
 ### Prerequisites
 
