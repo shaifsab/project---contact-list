@@ -1,37 +1,23 @@
-# Project Name
+# Contact List Management System (C++)
 
-Brief description of your project.
-
-## Table of Contents
-- [Features](#features)
-- [How to Build and Run](#how-to-build-and-run)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Additional Instructions](#additional-instructions)
-- [Author](#author)
+The Contact List Management System is designed in C++ to serve as a simple database for storing and managing student contact records. This project allows users to add, view, modify, and remove contact details, providing a convenient way to organize and access information.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- ...
+- Add new contacts with personal details.
+- View a list of all contacts.
+- Modify existing contact details.
+- Remove contacts from the database.
 
-## How to Build and Run
+## How to Use
 
 ### Prerequisites
 
-- List any prerequisites here (e.g., Node.js, Python 3).
+Ensure you have a C++ compiler installed on your system.
 
-### Installation
+### Build and Run
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd your-project`
-3. Install dependencies: `npm install` or `pip install -r requirements.txt` (modify based on your project's requirements).
+1. Clone the repository:
 
-### Usage
-
-- Provide examples or commands for running the project:
-
-  ```bash
-  $ command-to-run-project
+   ```bash
+   git clone https://github.com/your-username/contact-list-cpp.git
