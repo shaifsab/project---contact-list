@@ -19,7 +19,10 @@ During the installation, make sure to add the compiler's "bin" directory to your
 
 ### Build and Run
 
-1. Clone the repository:
+1.Language used: C++
+2.Coding Tool used: CodeBlocks or Any IDE that run C++ language
+3.Type: Desktop Application
+4.Database used: Text file generated.
 
 
    
